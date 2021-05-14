@@ -11,7 +11,7 @@ Shopee Code League 2021 - Multi-Channel Contacts
 ## Result
 
 - Highest accuracy of 0.95326 in the challenge
-- 7th place in both public and private leaderboard
+- Top 1% in the leaderboard
 
 ## Kaggle Page
 
